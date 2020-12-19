@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/rajchakravarthy/
 
 
 [![Raj's Github stats](https://github-readme-stats.vercel.app/api?username=raj-chakvarthy&count_private=true)](https://github.com/raj-chakvarthy/)
